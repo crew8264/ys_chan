@@ -62,4 +62,5 @@ async def 따라해봐3(ctx, *text):
 
     
 # 앱 동작 토큰
-app.run('ODgxMDg1MzA2MTQ3ODQ4MjAy.YSnsog.HB7R_fc-TTepbmGbirrHZhN5h90')
+token = open("token", "r").readline()
+bot.run(token)
