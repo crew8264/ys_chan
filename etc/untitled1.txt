@@ -1,12 +1,3 @@
-# ys_chan
-cuti cuti thiscod bod, yeo-shin chan.
-토큰 교체 잊지 않기.
-
-referred by :
-https://www.opentutorials.org/module/5108
-
-https://code-200.tistory.com/62
-
 Link 001   : https://www.opentutorials.org/module/5108/29517
 002        : https://code-200.tistory.com/59?category=842115
 
@@ -26,3 +17,4 @@ https://lektion-von-erfolglosigkeit.tistory.com/92
 
 async, await : 하나도 이해가 안된
 https://joshua1988.github.io/web-development/javascript/js-async-await/
+
