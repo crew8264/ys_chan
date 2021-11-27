@@ -4,7 +4,6 @@ cuti cuti thiscod bod, yeo-shin chan.
 
 referred by :
 https://www.opentutorials.org/module/5108
-
 https://code-200.tistory.com/62
 
 Link 001   : https://www.opentutorials.org/module/5108/29517
