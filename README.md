@@ -4,7 +4,8 @@
 ----------------------------------------
 
 cuti cuti thiscod bod, yeo-shin chan.
-토큰 교체 잊지 않기.
+귀염귀염 띠스꼬드 볻, 여신짱이에요-☆
+코드를 올릴때 토큰 교체를 잊지 말아주세요 !!
 
 referred by :
 https://www.opentutorials.org/module/5108
