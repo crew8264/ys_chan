@@ -27,4 +27,4 @@ async, await : 하나도 이해가 안된
 https://joshua1988.github.io/web-development/javascript/js-async-await/
 
 # 소스코드상에서는 예쁘게 정렬되어 있음 #
-# 마음에 안들어 미리보기 #
+마음에 안들어 미리보기 
